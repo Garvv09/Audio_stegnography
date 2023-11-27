@@ -1,0 +1,1 @@
+I use sophisticated audio steganography methods with Python to easily encrypt sensitive data into audio recordings. My methods provide safe communication by preserving the best possible sound quality while hiding data in the audio spectrum.
